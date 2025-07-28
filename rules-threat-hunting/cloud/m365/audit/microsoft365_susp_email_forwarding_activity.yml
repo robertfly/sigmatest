@@ -1,4 +1,4 @@
-title: Mail Forwarding/Redirecting Activity In O365
+title: Mail Forwarding/Redirecting Activity In O365 test
 id: c726e007-2cd0-4a55-abfb-79730fbedee5
 status: test
 description: Detects email forwarding or redirecting acitivty in O365 Audit logs.
